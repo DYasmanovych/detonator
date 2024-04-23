@@ -10,7 +10,7 @@ This script is designed to process a list of active subdomains to identify and t
 
 ## How to install
 ```bash
-git clone
+git clone https://github.com/DYasmanovych/detonator.git
 ```
 ## Usage
 To run the script, use the following command:
